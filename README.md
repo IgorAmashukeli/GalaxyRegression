@@ -8,4 +8,5 @@ we tried using
 - Random forest
 - XG boost
 - Keras VariationalGaussianProcess model
-- We used linear regression to find best features
+- We used linear regression to find the best features
+to estimate the masses of galaxies
